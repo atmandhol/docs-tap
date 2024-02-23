@@ -1,3 +1,5 @@
+# tanzu supplychain component get
+
 Get details of a component
 
 ### Synopsis
