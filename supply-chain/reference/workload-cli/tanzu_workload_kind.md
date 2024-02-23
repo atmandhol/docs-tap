@@ -1,5 +1,3 @@
-## tanzu workload kind
-
 View supported workload types (kinds)
 
 ### Options

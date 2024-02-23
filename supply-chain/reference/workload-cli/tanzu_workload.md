@@ -1,6 +1,4 @@
-## tanzu workload
-
-create, update, view and list Tanzu Workloads.
+Create, update, view and list Tanzu Workloads.
 
 ### Options
 

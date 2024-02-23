@@ -1,5 +1,3 @@
-## tanzu workload run
-
 View workload runs
 
 ### Options

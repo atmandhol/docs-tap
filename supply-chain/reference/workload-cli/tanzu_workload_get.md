@@ -1,5 +1,3 @@
-## tanzu workload get
-
 Get details of a workload
 
 ### Synopsis

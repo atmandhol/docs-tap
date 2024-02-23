@@ -1,5 +1,3 @@
-## tanzu workload list
-
 Lists all workloads
 
 ### Synopsis

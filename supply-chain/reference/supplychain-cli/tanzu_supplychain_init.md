@@ -1,6 +1,4 @@
-## tanzu supplychain init
-
-Initialize supplychain
+Initialize local directory for supplychain authoring
 
 ### Synopsis
 

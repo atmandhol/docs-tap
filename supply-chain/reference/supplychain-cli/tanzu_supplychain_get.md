@@ -1,6 +1,4 @@
-## tanzu supplychain get
-
-Get supplychain
+Get details about a supplychain
 
 ### Synopsis
 

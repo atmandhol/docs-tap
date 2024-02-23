@@ -1,5 +1,3 @@
-## tanzu workload apply
-
 Apply a workload of specific kind on the cluster from the file
 
 ```

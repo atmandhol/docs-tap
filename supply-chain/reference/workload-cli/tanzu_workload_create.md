@@ -1,5 +1,3 @@
-## tanzu workload create
-
 Create a workload of specific kind on the cluster from the file
 
 ```

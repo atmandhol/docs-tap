@@ -1,6 +1,4 @@
-## tanzu workload delete
-
-Delete workload
+Delete a workload
 
 ### Synopsis
 

@@ -1,5 +1,3 @@
-## tanzu supplychain component list
-
 Lists all supplychain components
 
 ### Synopsis

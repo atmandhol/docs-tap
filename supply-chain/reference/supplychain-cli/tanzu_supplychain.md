@@ -1,6 +1,4 @@
-## tanzu supplychain
-
-supplychain management
+Supplychain management commands
 
 ### Options
 

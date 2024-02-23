@@ -1,5 +1,3 @@
-## tanzu workload generate
-
 Generate a workload manifest with specified configuration
 
 ### Synopsis

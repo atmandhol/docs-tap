@@ -1,5 +1,3 @@
-## tanzu supplychain list
-
 Lists all supplychains
 
 ### Synopsis

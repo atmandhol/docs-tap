@@ -1,5 +1,3 @@
-## tanzu workload kind list
-
 Lists all workload kinds
 
 ### Synopsis

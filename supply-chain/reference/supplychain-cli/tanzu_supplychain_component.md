@@ -1,5 +1,3 @@
-## tanzu supplychain component
-
 Interacting with supplychain components
 
 ### Options

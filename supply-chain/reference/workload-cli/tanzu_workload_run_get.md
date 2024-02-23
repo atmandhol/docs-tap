@@ -1,5 +1,3 @@
-## tanzu workload run get
-
 Get workload run
 
 ### Synopsis

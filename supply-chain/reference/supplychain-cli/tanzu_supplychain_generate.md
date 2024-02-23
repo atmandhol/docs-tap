@@ -1,5 +1,3 @@
-## tanzu supplychain generate
-
 Generate a supplychain scaffold
 
 ### Synopsis
